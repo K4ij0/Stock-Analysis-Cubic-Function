@@ -18,7 +18,8 @@ Features of **Stock Analysis**:
 - Gives the lowest trading price of the month chosen
 - Gives the total trading volume of the month chosen
 
-**TO RUN STOCK ANALYSIS**:
-1: Insert the stock cvs file into the diretory bin\Debug
-2: Change the path and name location from the source code, search for "cvs" file.
-3: Run the code
+**HOW TO RUN STOCK ANALYSIS**:
+- 1: Insert the stock cvs file into the diretory bin\Debug
+- 2: Change the path and name location from the source code, search for "cvs" file.
+- 3: Run the code
+
